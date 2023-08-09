@@ -41,4 +41,5 @@ zi ice as"command" from"gh-r" \
 zi light starship/starship
 
 source $HOME/.path
-source $HOME/.aliases
+source $HOME/.alias
+source $HOME/.export
