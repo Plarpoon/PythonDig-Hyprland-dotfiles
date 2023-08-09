@@ -1,0 +1,8 @@
+alias cat=bat
+alias ls=exa
+alias ps=procs
+alias sed=sd
+alias grep=rg		#ripgrep
+alias tokei=langs
+alias top=btm		#bottom
+#alias cd=z		#zoxide
